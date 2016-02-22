@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    marky_markov (0.3.5)
+      msgpack
+    mini_portile2 (2.0.0)
+    msgpack (0.7.4)
+    nokogiri (1.6.7.2)
+      mini_portile2 (~> 2.0.0.rc2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  marky_markov
+  nokogiri
+
+BUNDLED WITH
+   1.11.2
